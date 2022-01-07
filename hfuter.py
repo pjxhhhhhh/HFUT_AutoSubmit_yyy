@@ -9,6 +9,7 @@ from Crypto.Cipher import AES
 from requests.sessions import session
 import os
 
+
 output_data = ""
 
 class hfuter:
